@@ -10,4 +10,4 @@ Alunos:
 * Rafael de Almeida Menezes
 * Lucas Campelo Santiago
 
-Os pacotes necessários para a execução do trabalho computacional são NumPy e OpenCV. Para melhor visualização das imagens, recomenda-se o _download_ dos arquivos.
+Implementação feita em Python3. Pacotes necessários para a execução do trabalho computacional são NumPy e OpenCV. Para melhor visualização das imagens, recomenda-se o _download_ dos arquivos.
